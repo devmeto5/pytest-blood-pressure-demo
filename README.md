@@ -1,4 +1,4 @@
-# Blood Pressure Monitor — Pytest Demo
+# Blood Pressure Monitor - Pytest Demo
 
 A beginner-friendly Python project that tests how a simulated blood pressure monitor sends readings to a simulated phone app. Explore data integrity, disconnected operation, retries, and duplicate prevention without buying or connecting equipment.
 
